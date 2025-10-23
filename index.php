@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hello wotld</h1>
+    <h2>paragraf 2</h2>
     
 </body>
 </html>
