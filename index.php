@@ -9,6 +9,11 @@
     <h1>Hello wotld</h1>
     <h2>paragraf 2</h2>
     <h2>paragraf 4</h2>
+    <ul>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+    </ul>
     
 </body>
 </html>
